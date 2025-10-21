@@ -1,4 +1,5 @@
-主要在baseline（https://github.com/OFA-Sys/Chinese-CLIP）上做以下改进，流程可参见Chinese-CLIP-on-MUGE-Retrieval.ipynb
+主要在baseline（https://github.com/OFA-Sys/Chinese-CLIP）
+上做以下改进，流程可参见Chinese-CLIP-on-MUGE-Retrieval.ipynb
 
 1、对进行微调，目前跑了两个epoch，还没有收敛，目前MeanRecall为62
 
